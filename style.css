@@ -1,0 +1,68 @@
+body {
+    background-color: #ece7e7;
+    text-align: center;
+}
+
+h1 {
+    color: #526a75;
+}
+
+h2 {
+    color: #526a75;
+}
+
+h3 {
+    color: #526a75;
+}
+
+/* .algo1:button:hover {
+    background-color: #5db5db;
+} */
+
+.algo1 button {
+    width: 9%;
+    padding: 10px;
+    background-color: #526a75;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.algo1 input {
+    box-shadow: 3px 3px 3px #c8dae2;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px #ccc;
+    border-radius: 7px;
+}
+
+a {
+    transform: scale(1.2);
+    color: white;
+    text-decoration: none;
+    background-color: #526a75;
+    box-shadow: 5px 5px 5px #c8dae2;
+    padding: 5px;
+    margin: 10px 0;
+    border: 10% #ccc;
+    border-radius: 7px;
+}
+
+
+a:hover {
+    background-color: #5db5db;
+
+}
+
+hr {
+    margin: 40px;
+}
+
+p {
+    color: #526a75;
+}
+
+#index4 {
+    margin: 20px;
+}
